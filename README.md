@@ -1,6 +1,6 @@
 # TinyWorld
 
-SAP Web IDE for SAP HANA (herein: Web IDE) is available with HANA SPS11 and later, for use with XS Advanced. It is a new adaption of the existing SAP Web IDE (available on SAP Cloud Platform), and is specially designed for developing entire business applications on SAP HANA.
+SAP Web IDE for SAP HANA (herein: Web IDE) is available with HANA SPS11 and later, for use with XS Advanced. It is an adaption of the SAP Web IDE Full-Stack (available on SAP Cloud Platform), and is specially designed for developing entire business applications on SAP HANA on-premise.
 
 To illustrate the use of the Web IDE and of programming in the SAP HANA XS Advanced environment, we are going to develop a small application called “TinyWorld”.
 
